@@ -1,0 +1,15 @@
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\bin\Debug\net8.0\Internship.exe
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\bin\Debug\net8.0\Internship.deps.json
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\bin\Debug\net8.0\Internship.runtimeconfig.json
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\bin\Debug\net8.0\Internship.dll
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\bin\Debug\net8.0\Internship.pdb
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.AssemblyInfoInputs.cache
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.AssemblyInfo.cs
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.sourcelink.json
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.dll
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\refint\Internship.dll
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.pdb
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\Internship.genruntimeconfig.cache
+C:\Users\ashwi\OneDrive\Desktop\IEEE\Internship\obj\Debug\net8.0\ref\Internship.dll
